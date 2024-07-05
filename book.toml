@@ -1,0 +1,6 @@
+[book]
+authors = ["YammyShep"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Luminous Studio Docs"
