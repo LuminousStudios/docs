@@ -14,7 +14,7 @@
 
         - [Blender](./docs/art/gettingstarted/blenderinstall.md)
           - [Intro To Blender](./docs/art/Blender/blenderintro.md)
-            - [Advanced Short Cuts](./docs/art/Blender/ADVShortcuts.md)
+          - [Advanced Short Cuts](./docs/art/Blender/ADVShortcuts.md)
           - [FAQ]()
 
         - [Clip Studio](./docs/art/gettingstarted/clipstudioinstall.md)
@@ -22,3 +22,8 @@
         - [XNormal](./docs/art/gettingstarted/xnormalinstall.md)
           - [How to bake normals]()
           - [FAQ]()
+- [Project Quick Start](./quickstart/README.md)
+  - [Installing Software]()
+  - [Cloning the repository]()
+  - [Opening the project]()
+  - [Submitting work in engine]()
