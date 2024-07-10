@@ -20,6 +20,6 @@
 
     - [Clip Studio](./docs/art/gettingstarted/clipstudioinstall.md)
 
-    - [XNormal](./docs/art/gettingstarted/xnormalinstall.md)
-      - [How to bake normals]()
+    - [xNormal](./docs/art/gettingstarted/xnormalinstall.md)
+      - [How to bake normals](./docs/art/XNormal/Baking%20Normals.md)
       - [FAQ]()
