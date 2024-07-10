@@ -27,6 +27,6 @@
 
 - [Project Quick Start](./quickstart/README.md)
   - [Installing Software](./quickstart/install.md)
-  - [Cloning the repository]()
+  - [Cloning the repository](./quickstart/clone.md)
   - [Opening the project]()
   - [Submitting work in engine]()
