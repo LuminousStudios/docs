@@ -10,6 +10,8 @@
 - [Art](./docs/art/gettingstarted/art.md)
     - [3DCoat](./docs/art/gettingstarted/3dcoatinstall.md)
       - [Creating an new file]()
+      - [Importing normals]()
+      - [Baking Ambient Occlusion & Curvature]()
       - [FAQ]()
 
     - [Blender](./docs/art/gettingstarted/blenderinstall.md)
