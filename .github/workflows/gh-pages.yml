@@ -12,8 +12,7 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     permissions:
-      pages: write
-      id-token: write
+      contents: write
     steps:
       - uses: actions/checkout@v2
 
