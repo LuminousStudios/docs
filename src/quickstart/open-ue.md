@@ -15,6 +15,8 @@ For provider, select "Git LFS 2" and make sure it correctly pulls your git usern
 Also make sure that "Uses Git LFS" is checked and that the username to right of the checkbox **matches your GitHub username**.
 This will likely be auto-filled incorrectly; Setting this incorrectly *will* cause issues when locking assets!
 
+![](./img/open-ue-connect.png)
+
 ![](./img/open-ue-vcs.png)
 
 <div class="warning">
