@@ -9,11 +9,13 @@
 
 - [Art](./docs/art/gettingstarted/art.md)
   - [Getting started](./docs/art/gettingstarted/gettingstarted.md)
+
   - [3DCoat](./docs/art/gettingstarted/3dcoatinstall.md)
     - [Creating an new file](./docs/art/3DCoat/3DC%20New%20File.md)
     - [Maps](./docs/art/3DCoat/3DC%20Maps.md)
     - [Smart Materials](./docs/art/3DCoat/3DC%20Smart%20Materials.md)
     - [Tools](./docs/art/3DCoat/3DC%20Tools.md)
+    - [Exporting Textures](./docs/art/3DCoat/3DCExportTextures)
     - [FAQ]()
 
   - [Blender](./docs/art/gettingstarted/blenderinstall.md)

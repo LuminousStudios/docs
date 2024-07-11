@@ -1,7 +1,7 @@
 # Maps
 
-[Normal](#normal)
-[Curvature](#curvature)
+[Normal](#normal),
+[Curvature](#curvature),
 [AO](#ao)
 
 ## Normal
