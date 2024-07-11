@@ -1,6 +1,6 @@
 # Learning the Basics
 
-First folow this [link](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=1) to the Blender Guru's Blender tutorial. Watch Parts 1 - 4 for the basic of how to model in blender.
+First follow this [link](https://www.youtube.com/watch?v=B0J27sf9N1Y&list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&index=1) to the Blender Guru's Blender tutorial. Watch Parts 1 - 4 for the basic of how to model in blender.
 
 
 # Basic Keyboard shortcuts

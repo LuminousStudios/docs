@@ -3,7 +3,7 @@
 **Make sure that your meshes are large enough when you export them**
 
 1. On the right side click on the High Definition meshes tab
-2. In the center under the file coloum right click in the blank space and select add meshes (select your high poly mesh)<br/>![xNormal Select Files](./img/2024-07-09%2017_18_39-xNormal%20v3.19.3.39669.png)
+2. In the center under the file column right click in the blank space and select add meshes (select your high poly mesh)<br/>![xNormal Select Files](./img/2024-07-09%2017_18_39-xNormal%20v3.19.3.39669.png)
 3. In the Low Definition meshes tab repeat step 2 this time with your low poly mesh
 4. Click on the Baking Options tab<br/>![xNormal Select Files](./img/2024-07-09%2020_04_06-xNormal%20v3.19.3.39669.png)
 5. In here you can:
