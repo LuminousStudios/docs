@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-20.04
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v2
 
