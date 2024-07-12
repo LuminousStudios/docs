@@ -10,7 +10,7 @@
 - [Art](./docs/art/gettingstarted/art.md)
   - [Getting started](./docs/art/gettingstarted/gettingstarted.md)
 
-  - [3DCoat](./docs/art/gettingstarted/3dcoatinstall.md)
+  - [3DCoat](./docs/art/3DCoat/3DCoat.md)
     - [Creating an new file](./docs/art/3DCoat/3DC%20New%20File.md)
     - [Maps](./docs/art/3DCoat/3DC%20Maps.md)
     - [Smart Materials](./docs/art/3DCoat/3DC%20Smart%20Materials.md)
@@ -18,15 +18,15 @@
     - [Exporting Textures](./docs/art/3DCoat/3DCExportTextures)
     - [FAQ]()
 
-  - [Blender](./docs/art/gettingstarted/blenderinstall.md)
+  - [Blender](./docs/art/Blender/Blender.md)
     - [Intro To Blender](./docs/art/Blender/blenderintro.md)
       - [Advanced Short Cuts](./docs/art/Blender/ADVShortcuts.md)
     - [Exporting](./docs/art/Blender/BlenderExport.md)
     - [FAQ]()
 
-  - [Clip Studio](./docs/art/gettingstarted/clipstudioinstall.md)
+  - [Clip Studio]()
 
-  - [xNormal](./docs/art/gettingstarted/xnormalinstall.md)
+  - [xNormal](./docs/art/XNormal/xNormal.md)
     - [How to bake normals](./docs/art/XNormal/Baking%20Normals.md)
     - [FAQ]()
 
