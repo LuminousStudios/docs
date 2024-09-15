@@ -34,6 +34,7 @@
 - [Project Quick Start](./quickstart/README.md)
   - [Installing Software](./quickstart/install.md)
   - [Cloning the repository](./quickstart/clone.md)
+  - [Updating the project](./quickstart/update.md)
   - [Opening the project](./quickstart/open-ue.md)
   - [Submitting work in engine](./quickstart/sumbit.md)
   - [Submitting work out of engine](./quickstart/submit-git.md)
