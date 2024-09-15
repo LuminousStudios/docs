@@ -1,5 +1,9 @@
 # Updating the project
 
+<div class="warning">
+If you just finished cloning the repository, you dont need to update right away, but should still read through this page.
+</div>
+
 You must update the local working copy of the project before you begin working in it.
 This can be done using GitHub Desktop or another git client.
 
