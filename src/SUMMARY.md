@@ -36,3 +36,4 @@
   - [Cloning the repository](./quickstart/clone.md)
   - [Opening the project](./quickstart/open-ue.md)
   - [Submitting work in engine](./quickstart/sumbit.md)
+  - [Submitting work out of engine](./quickstart/submit-git.md)
